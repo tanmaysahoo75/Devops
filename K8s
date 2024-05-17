@@ -54,7 +54,7 @@ REQUIRMENTS:
 Internet connection
 Container or virtual machine manager, such as: Docker.
 
-
+Note- to be used with ubuntu 
 STEUP:
 sudo apt update -y
 sudo apt upgrade -y
